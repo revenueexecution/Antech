@@ -1,0 +1,107 @@
+<svg viewBox="0 0 900 1180" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect width="900" height="1180" fill="#ffffff"/>
+
+  <!-- Header -->
+  <text x="50" y="55" font-size="30" font-weight="bold" fill="#282828">Antech &#8212; Outreach Process</text>
+  <text x="50" y="80" font-size="15" fill="#8a99a0">Solution &#8594; ICP &#8594; LinkedIn &#8594; Message &#8594; Cadence &#8594; Call</text>
+  <rect x="50" y="94" width="800" height="3" fill="#FE6900"/>
+
+  <!-- Step 1 -->
+  <g transform="translate(50,130)">
+    <rect x="0" y="0" width="800" height="110" rx="10" fill="#fafafa" stroke="#e8e8e8" stroke-width="1"/>
+    <rect x="0" y="0" width="6" height="110" rx="3" fill="#FE6900"/>
+    <circle cx="60" cy="55" r="30" fill="#FE6900"/>
+    <text x="60" y="65" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="115" y="42" font-size="20" font-weight="bold" fill="#282828">Identify the Solution</text>
+    <text x="115" y="68" font-size="14.5" fill="#5c6f78">Match the account&#8217;s situation to the right product &#8212;</text>
+    <text x="115" y="88" font-size="14.5" fill="#5c6f78">ReSolve, Progeny, MicroNIR, Raman PAT, or QC Testing.</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M450 240 L450 268" stroke="#FE6900" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 2 -->
+  <g transform="translate(50,268)">
+    <rect x="0" y="0" width="800" height="110" rx="10" fill="#fafafa" stroke="#e8e8e8" stroke-width="1"/>
+    <rect x="0" y="0" width="6" height="110" rx="3" fill="#FE6900"/>
+    <circle cx="60" cy="55" r="30" fill="#FE6900"/>
+    <text x="60" y="65" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="115" y="42" font-size="20" font-weight="bold" fill="#282828">Map the Value &#8212; and Who Feels It</text>
+    <text x="115" y="68" font-size="14.5" fill="#5c6f78">Confirm which persona/ICP owns that pain &#8212; Procurement,</text>
+    <text x="115" y="88" font-size="14.5" fill="#5c6f78">QC, MSAT, ESG, Formulation, etc.</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M450 378 L450 406" stroke="#FE6900" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 3 -->
+  <g transform="translate(50,406)">
+    <rect x="0" y="0" width="800" height="110" rx="10" fill="#fafafa" stroke="#e8e8e8" stroke-width="1"/>
+    <rect x="0" y="0" width="6" height="110" rx="3" fill="#FE6900"/>
+    <circle cx="60" cy="55" r="30" fill="#FE6900"/>
+    <text x="60" y="65" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="115" y="42" font-size="20" font-weight="bold" fill="#282828">Find Them on LinkedIn</text>
+    <text x="115" y="68" font-size="14.5" fill="#5c6f78">Search the job titles for that persona at the target</text>
+    <text x="115" y="88" font-size="14.5" fill="#5c6f78">account &#8212; use the title variations from the guide.</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <path d="M450 516 L450 544" stroke="#FE6900" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 4 -->
+  <g transform="translate(50,544)">
+    <rect x="0" y="0" width="800" height="110" rx="10" fill="#fafafa" stroke="#e8e8e8" stroke-width="1"/>
+    <rect x="0" y="0" width="6" height="110" rx="3" fill="#FE6900"/>
+    <circle cx="60" cy="55" r="30" fill="#FE6900"/>
+    <text x="60" y="65" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="115" y="42" font-size="20" font-weight="bold" fill="#282828">Create the Message</text>
+    <text x="115" y="68" font-size="14.5" fill="#5c6f78">Tailor the opener to persona + solution value &#8212;</text>
+    <text x="115" y="88" font-size="14.5" fill="#5c6f78">specific, not generic.</text>
+  </g>
+
+  <!-- Arrow 4 -->
+  <path d="M450 654 L450 682" stroke="#FE6900" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 5 -->
+  <g transform="translate(50,682)">
+    <rect x="0" y="0" width="800" height="110" rx="10" fill="#fafafa" stroke="#e8e8e8" stroke-width="1"/>
+    <rect x="0" y="0" width="6" height="110" rx="3" fill="#FE6900"/>
+    <circle cx="60" cy="55" r="30" fill="#FE6900"/>
+    <text x="60" y="65" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="115" y="42" font-size="20" font-weight="bold" fill="#282828">Send LinkedIn / Email Message</text>
+    <text x="115" y="68" font-size="14.5" fill="#5c6f78">First touch of the cadence goes out.</text>
+  </g>
+
+  <!-- Arrow 5 -->
+  <path d="M450 792 L450 820" stroke="#FE6900" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 6 -->
+  <g transform="translate(50,820)">
+    <rect x="0" y="0" width="800" height="110" rx="10" fill="#fafafa" stroke="#e8e8e8" stroke-width="1"/>
+    <rect x="0" y="0" width="6" height="110" rx="3" fill="#FE6900"/>
+    <circle cx="60" cy="55" r="30" fill="#FE6900"/>
+    <text x="60" y="65" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">6</text>
+    <text x="115" y="42" font-size="20" font-weight="bold" fill="#282828">Phone Follow-Up &#8212; Run the Cadence</text>
+    <text x="115" y="68" font-size="14.5" fill="#5c6f78">Work the full cadence: 8&#8211;10 touchpoints across calls,</text>
+    <text x="115" y="88" font-size="14.5" fill="#5c6f78">email, and LinkedIn before parking the lead.</text>
+  </g>
+
+  <!-- Arrow 6 -->
+  <path d="M450 930 L450 958" stroke="#FE6900" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 7 -->
+  <g transform="translate(50,958)">
+    <rect x="0" y="0" width="800" height="110" rx="10" fill="#fff6ee" stroke="#FE6900" stroke-width="2"/>
+    <circle cx="60" cy="55" r="30" fill="#FE6900"/>
+    <text x="60" y="65" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">7</text>
+    <text x="115" y="42" font-size="20" font-weight="bold" fill="#282828">Get the Call</text>
+    <text x="115" y="68" font-size="14.5" fill="#8a4a1a">Demonstrate value, ROI, and referenceability &#8212;</text>
+    <text x="115" y="88" font-size="14.5" fill="#8a4a1a">proof, not a pitch.</text>
+  </g>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#FE6900"/>
+    </marker>
+  </defs>
+</svg>
